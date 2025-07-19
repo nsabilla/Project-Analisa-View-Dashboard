@@ -16,3 +16,6 @@ cd dashboard
 ```
 streamlit run dashboard.py
 ```
+
+## Output
+[🎬 Demo Video](C:\Users\Nurul Najwa Sabilla\Documents\MBKM (Disini Semua)\project_with_bangkit\iPhone-12-PRO-172.30.225.124-qsfg4h5tnxw_k3.webm)
